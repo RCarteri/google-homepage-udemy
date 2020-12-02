@@ -1,2 +1,2 @@
 # the-odin-project
-Atividades feitas no The Odin Project
+Activities done in The Odin Project
